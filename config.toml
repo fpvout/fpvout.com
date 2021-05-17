@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
-title = "DJI Video Out Club"
+baseurl = "https://fpvout.com/"
+title = "FPV Video Out Club"
 theme = "hugo-vex"
 # post excert
 summarylength = "20"
