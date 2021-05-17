@@ -21,7 +21,10 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: |
+          hugo --minify
+          echo "fpvout.com" > public/CNAME
+          
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
