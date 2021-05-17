@@ -54,13 +54,12 @@ weight = 2
 [[menu.main]]
 name = "FAQ"
 url = "blog"
-weight = 3
+weight = 4
 
 [[menu.main]]
-name = ""
-pre = "#"
-url = "testimonial"
-weight = 4
+name = "Discord Invite"
+url = "https://discord.gg/vp3WKUeG"
+weight = 3
 
 [[menu.main]]
 name = ""
