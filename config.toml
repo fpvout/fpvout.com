@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
 baseurl = "http://examplesite.com/"
 title = "DJI Video Out Club"
-theme = "fpvout.com"
+theme = "hugo-vex"
 # post excert
 summarylength = "20"
 # google analytics
@@ -50,7 +50,7 @@ weight = 2
 
 [[menu.main]]
 name = "FAQ"
-url = "blog"
+url = "faq"
 weight = 4
 
 [[menu.main]]
