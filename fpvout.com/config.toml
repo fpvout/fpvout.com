@@ -24,8 +24,6 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
-[[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -34,8 +32,7 @@ link = "plugins/jquery/jquery.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
+
 
 
 ###################################### Navigation ######################################
@@ -100,7 +97,7 @@ currency = "$"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # snipcart public api key
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+#snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
 # Preloader
 [params.preloader]

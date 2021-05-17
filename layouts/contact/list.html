@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      {{ with .Params.office }}
+      <div class="col-lg-5 col-sm-6 mb-5">
+        <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+        <ul class="list-unstyled contact-list">
+          {{with .mobile}} <li class="mb-3"><a href="tel:{{ . }}"><i class="tf-ion-ios-telephone mr-2"></i>
+              {{ . }}</a></li>{{ end }}
+          {{with .email}} <li class="mb-3"><a href="mailto:{{ . }}"><i class="tf-ion-email mr-2"></i>{{ . }}</a></li>
+          {{end }}
+          {{with .location }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}
+          </li>{{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      <div class="col-lg-3 col-sm-6 mb-5">
+        {{ with .Params.opennig_hour }}
+        <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
+        <ul class="list-unstyled">
+          {{ range .day_time }}
+          <li class="mb-2">{{ . | markdownify }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <h2 class="font-weight-bold mb-4">{{ .Title | markdownify }}</h2>
+        <form action="{{ site.Params.contact_form_action }}" method="POST" class="row">
+          <div class="col-lg-6 mb-3">
+            <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
+          </div>
+          <div class="col-lg-6 mb-3">
+            <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
+          </div>
+          <div class="col-12 mb-3">
+            <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
+          </div>
+          <div class="col-12 text-right">
+            <button type="submit" value="send" class="btn btn-main btn-main-sm">{{ i18n "send" }}</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
