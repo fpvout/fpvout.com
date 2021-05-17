@@ -1,0 +1,127 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "Video output from DJI Goggles; Anywhere."
+  content : "Video out for DJI V1 & V2 Goggles via Android, Mac, PC, Chrome, & Linux."
+  image : "images/fpv-out-club-icon.png"
+  button:
+   enable : true
+   label : "GitHub Project"
+   link : "https://github.com/fpvout"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Our Core Features"
+  image : "images/digiview screenshot.jpg"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "V1 & V2 Goggles"
+    icon : ""
+    content : "Support DJI FPV Goggles (V1&V2)"
+    
+    # feature item loop
+  - title : "Mobile Devices"
+    icon : ""
+    content : "DigiView released on Google Play for Android Devices"
+    
+    # feature item loop
+  - title : "PC - Linux - Apple - Chrome"
+    icon : ""
+    content : "Support for Windows, Linux, Chrome & MacOS Devices"
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "Low Latency"
+    icon : ""
+    content : "Low latency video transmission over USB from supported devices"
+
+    # feature item loop
+  - title : "Open Source Project"
+    icon : ""
+    content : "Created by the community, for the community."
+
+    # feature item loop
+  - title : "Easy to Use"
+    icon : ""
+    content : "No technical knowledge required; plug and play"
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/dji-fpv-goggle-transparent.png"
+  title : "No Modification Required"
+  content : "This does not require or make changes to your DJI Goggles in any way. The goggle is working as intended by the manufacturer.
+            <br><br>
+            Using this software will not void your DJI Warranty"
+
+
+############################## About Product #######################
+#about_product:
+#  enable : true
+#  title : "Why Choose Apple Watch"
+#  items:
+#    # about product item loop
+#    - image : "images/showcase/showcase-4.png"
+#      title : "Lorem ipsum dolor sit amet."
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+#            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+#            quas, quo harum deserunt consequatur cumque!"
+#      button:
+#        enable : false
+#        label : "Check Features"
+#        link : "#"
+#        
+#    # about product item loop
+#    - image : "images/showcase/showcase-3.png"
+#      title : "Lorem ipsum dolor sit amet."
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+#            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+#            quas, quo harum deserunt consequatur cumque!"
+#      button:
+#        enable : false
+#        label : "Check Features"
+#        link : "#"
+#
+##################################### Products ########################
+#products:
+#  enable : true
+#  title : "Checkout Our All Products"
+#
+#
+################################### Subscription ###################
+#subscription:
+#  enable : true
+#  bg_image : "images/call-to-action.jpg"
+#  title : "Get Product Updates"
+#  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+#  placeholder : "Your Email Address Here"
+#
+#
+############################### Testimonial ##########################
+#testimonial:
+#  enable : true
+#  title : "Watch Review"
+#  testimonial_item:
+#    # testimonial item loop
+#    - name : "Jonathon Andrew"
+#      designation : "CEO, Themefisher"
+#      image : "images/avater.png"
+#      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+#      
+#    # testimonial item loop
+ #   - name : "Jonathon Andrew"
+ #     designation : "CEO, Themefisher"
+ #     image : "images/avater.png"
+ #     content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+ #     
+ #   # testimonial item loop
+ #   - name : "Jonathon Andrew"
+ #     designation : "CEO, Themefisher"
+ #     image : "images/avater.png"
+ #     content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created #for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
