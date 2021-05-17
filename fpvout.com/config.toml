@@ -50,7 +50,7 @@ weight = 2
 
 [[menu.main]]
 name = "FAQ"
-url = "faq"
+url = "blog"
 weight = 4
 
 [[menu.main]]
