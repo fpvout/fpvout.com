@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
+baseurl = "http://fpvout.com"
 title = "DJI Video Out Club"
-theme = "vex-hugo"
+theme = "fpvout.com"
 # post excert
 summarylength = "20"
 # google analytics
