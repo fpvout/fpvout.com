@@ -7,14 +7,11 @@ draft: false
 ---
 
 ==============================<br>
-GitHub 
-https://github.com/fpvout
+[GitHub](https://github.com/fpvout)
 
-Wiki
-https://github.com/fpvout/fpvout.com/wiki
+[Wiki](https://github.com/fpvout/fpvout.com/wiki)
 
-Discord
-https://discord.com/invite/4kUGdtAZJ5
+[Discord](https://discord.com/invite/4kUGdtAZJ5)
 ==============================<br>
 The original discovery & why we're all here
 @Joonas -> https://www.buymeacoffee.com/fpv.wtf
