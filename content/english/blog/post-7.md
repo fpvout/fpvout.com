@@ -1,6 +1,6 @@
 ---
 title: "Sounds great! where can I get it/where can I get help?"
-date: 2020-10-17T11:22:16+06:00
+date: 2018-10-17T11:22:16+06:00
 image: "images/links.svg"
 description : "this is a meta description"
 draft: false
