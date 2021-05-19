@@ -1,5 +1,7 @@
 ---
-title: "Frequently Asked Questions"
-description : "this is a meta description"
+title: "Frequenty Asked Questions"
+description : "Frequenty Asked Questions"
+
+    
 draft: false
 ---
