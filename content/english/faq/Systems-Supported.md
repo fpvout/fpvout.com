@@ -6,4 +6,4 @@ description : "faq"
 draft: false
 ---
 
-Windows, Linux, Chrome, MacOS, Android. iPhone will is not supported with no plans to be supported. This is due to a limitation of the device. 
+Windows, Linux, Chrome, MacOS and Android. iPhone will is not supported with no plans to be supported. This is due to a limitation of the device. 

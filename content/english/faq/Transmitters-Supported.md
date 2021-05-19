@@ -7,4 +7,4 @@ draft: false
 ---
 
 
-Air Unit, Caddx Vista's (Along with all vista-compaitble cameras)
+Air Unit, Caddx Vista's (Along with all vista-compatible cameras)
