@@ -59,8 +59,8 @@ url = "https://discord.gg/4kUGdtAZJ5"
 weight = 3
 
 [[menu.main]]
-name = ""
-url = "contact"
+name = "Wiki"
+url = "https://github.com/fpvout/fpvout.com/wiki"
 weight = 5
 
 # footer menu
