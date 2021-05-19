@@ -2,7 +2,7 @@
 title: "Which Goggles are Supported?"
 date: 2019-10-17T11:22:16+06:00
 image: "images/superhero.svg"
-description : "this is a meta description"
+description : "faq question"
 draft: false
 ---
 

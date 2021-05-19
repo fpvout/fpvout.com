@@ -2,7 +2,7 @@
 title: "Sounds great! Where can I get it/Where can I get help?"
 date: 2018-10-17T11:22:16+06:00
 image: "images/links.svg"
-description : "this is a meta description"
+description : "faq question"
 draft: false
 ---
 

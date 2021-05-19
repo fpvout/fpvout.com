@@ -2,7 +2,7 @@
 title: "How can I contribute?"
 date: 2019-10-17T11:22:16+06:00
 image: "images/contribute.svg"
-description : "this is a meta description"
+description : "faq question"
 draft: false
 ---
 
