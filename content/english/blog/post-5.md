@@ -1,7 +1,7 @@
 ---
 title: "How can I contribute?"
 date: 2019-10-17T11:22:16+06:00
-image: ""
+image: "images/question mark.png"
 description : "this is a meta description"
 draft: false
 ---
