@@ -1,7 +1,7 @@
 ---
 title: "How much does this software cost?"
 date: 2019-10-17T11:22:16+06:00
-image: "images/question mark.png"
+image: "images/saving.png"
 description : "this is a meta description"
 draft: false
 ---
