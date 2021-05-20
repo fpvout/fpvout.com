@@ -7,4 +7,4 @@ draft: false
 ---
 
 
-No. This does not require you to make changes to your DJI Goggles in any way. The goggle is working as intended by the manufacturer.
+No. This does not require you to make changes to your DJI Goggle in any way. The goggle is working as intended by the manufacturer.
